@@ -1,0 +1,272 @@
+html {
+  background-color: #f1f1f1;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.home {
+  color: #000;
+  font-family: consolas;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 21px;
+  margin-left: 137px;
+}
+
+.discovery {
+  color: #000;
+  font-family: consolas;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 21px;
+  margin-left: 35px;
+}
+
+.photos {
+  color: #000;
+  font-family: consolas;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 21px;
+  margin-left: 35px;
+}
+
+.contact {
+  color: #000;
+  font-family: consolas;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 21px;
+  margin-left: 35px;
+}
+
+.wmn {
+  height: 32px;
+  width: 32px;
+  margin-right: 952px;
+  margin-top: 11px;
+  margin-left: 29px;
+}
+
+.trending {
+  color: #000;
+  font-family: consolas;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 137px;
+  margin-top: 52px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 27px;
+}
+
+.lil-container1 {
+  margin-left: 92px;
+  background-color: #fff;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.lil-container2 {
+  background-color: #fff;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.lil-container3 {
+  margin-right: 78px;
+  background-color: #fff;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.cont1 {
+  width: 362px;
+  height: 171px;
+  border-radius: 0px 0px 5px 5px;
+  background: #fff;
+  margin-top: 0px;
+  height: 171px;
+}
+
+.cont2 {
+  width: 362px;
+  height: 171px;
+  border-radius: 0px 0px 5px 5px;
+  background: #fff;
+  margin-top: 0px;
+  height: 171px;
+}
+
+.cont3 {
+  width: 362px;
+  height: 171px;
+  border-radius: 0px 0px 5px 5px;
+  background: #fff;
+  margin-top: 0px;
+  height: 171px;
+}
+
+.la {
+  color: #8a8787;
+  font-family: consolas;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  width: 300px;
+  height: 36px;
+  padding: 30px;
+}
+
+.ibiza {
+  color: #8a8787;
+  font-family: consolas;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  width: 300px;
+  height: 36px;
+  padding: 30px;
+}
+
+.iceland {
+  color: #8a8787;
+  font-family: consolas;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  width: 300px;
+  height: 36px;
+  padding: 30px;
+}
+
+.clock {
+  margin-left: 35px;
+  width: 16px;
+  height: 16px;
+  border-radius: 16px;
+}
+
+.ago {
+  width: 64px;
+  height: 12px;
+  margin-left: 5px;
+  color: #8a8787;
+  font-family: consolas;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.HAPPENING-NOW {
+  color: #000;
+  font-family: consolas;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-left: 137px;
+  margin-top: 57px;
+}
+
+.cont4 img {
+  width: 758px;
+  height: 430px;
+  margin-top: 35px;
+  margin-left: 137px;
+}
+
+.cont5 {
+  width: 362px;
+  height: 212px;
+  margin-top: 35px;
+  margin-right: 130px;
+}
+
+.bld {
+  margin-top: 100px;
+}
+
+.el {
+  margin-top: 100px;
+}
+
+.container2 {
+  display: flex;
+}
+
+footer{
+  background-color: #000;
+  height: 200px;
+  margin-top: 40px;
+}
+.black{
+  background-color: #000;
+  height: 35px;
+}
+
+
+.container3{
+  display: flex;
+  justify-content: space-around;
+}
+
+.p{
+  color: #FFF;
+font-family: consolas;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.lil-cont1{
+  color: #818687;
+  font-family: consolas;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.lil-cont2{
+  color: #818687;
+  font-family: consolas;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.lil-cont3{
+  color: #818687;
+  font-family: consolas;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+
+.owl{
+  width: 38px;
+height: 40px;
+}
